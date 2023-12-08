@@ -1,4 +1,4 @@
-package com.example.vadisabilitycalculator.ui.theme
+package com.example.vadisabilitycalculator.presentation.ui.theme
 
 import android.app.Activity
 import android.os.Build
